@@ -51,7 +51,7 @@ Raw oscilloscope screenshots used to extract passive Q-switching pulse durations
 - **`peak-i=1.99.png`** ($I = 1.99\text{ A}$, $\text{FWHM} = 15.2\text{ ns}$) | **`peak-i=2.04.png`** ($I = 2.04\text{ A}$, $\text{FWHM} = 14.4\text{ ns}$) | **`peak-i=2.07.png`** ($I = 2.07\text{ A}$, $\text{FWHM} = 15.0\text{ ns}$)
 
 ## TEM Mode Images
-Supplied transverse-intensity images used to analyze Hermite–Gaussian mode profiles (Sec. 3.4 & Table 1)[cite: 6, 26]:
+Supplied transverse-intensity images used to analyze Hermite–Gaussian mode profiles:
 - **`TEM00new.jpg`** | **`TEM10.jpg`** | **`TEM20.jpg`**  | **`TEM03.jpg`** 
 ---
 
