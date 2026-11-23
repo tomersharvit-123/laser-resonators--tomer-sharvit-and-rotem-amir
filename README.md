@@ -47,7 +47,7 @@ lets start with out mesurment:
 ```[cite: 21, 22, 23, 24, 25, 26, 27, 28, 29]
 
 
-### lasers-part1 (2).ipynb is our first colab phyton which does a linear fit of the diode output Power in the Y axis and the current I in the X axis.
+### **lasers-part1 (2).ipynb** is our first colab phyton which does a linear fit of the diode output Power in the Y axis and the current I in the X axis.
 * **Statistical Evaluation:** Computes residuals, reduced chi-squared ($\chi^2_\nu$), and the corresponding $p$-value to assess goodness of fit.
 * **Visualization:** Generates formatted plots comparing the experimental data against the fitted model.
 
