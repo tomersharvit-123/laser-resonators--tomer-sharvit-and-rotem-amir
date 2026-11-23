@@ -52,7 +52,7 @@ Raw oscilloscope screenshots used to extract passive Q-switching pulse durations
 
 ## TEM Mode Images
 Supplied transverse-intensity images used to analyze Hermite–Gaussian mode profiles (Sec. 3.4 & Table 1)[cite: 6, 26]:
-- **`TEM00new.jpg`** | **`TEM10.jpg`** | **`TEM20.jpg`** (rotated $31.5^\circ$ prior to 1D projection) | **`TEM03.jpg`** (replacement nominal $\mathrm{TEM}_{0,3}$ dataset)[cite: 26]
+- **`TEM00new.jpg`** | **`TEM10.jpg`** | **`TEM20.jpg`** (rotated $31.5^\circ$ prior to 1D projection) | **`TEM03.jpg`** 
 ---
 
 ## Analysis Notebooks (Google Colab / Python)
