@@ -47,34 +47,34 @@ lets start with out mesurment:
 ```[cite: 21, 22, 23, 24, 25, 26, 27, 28, 29]
 
 
--lasers-part1 (2).ipynb is our first colab phyton which does a linear fit of the diode output Power in the Y axis and the current I in the X axis.
+### lasers-part1 (2).ipynb is our first colab phyton which does a linear fit of the diode output Power in the Y axis and the current I in the X axis.
 * **Statistical Evaluation:** Computes residuals, reduced chi-squared ($\chi^2_\nu$), and the corresponding $p$-value to assess goodness of fit.
 * **Visualization:** Generates formatted plots comparing the experimental data against the fitted model.
 
 
--lasers-part2 (1).ipynb this is a colab phyton script which does a linear fit of the diode output Power of the Nd:YAG in the Y axis and the diode Pumping power in the X axis.
+### lasers-part2 (1).ipynb this is a colab phyton script which does a linear fit of the diode output Power of the Nd:YAG in the Y axis and the diode Pumping power in the X axis.
 * **Statistical Evaluation:** Computes residuals, reduced chi-squared ($\chi^2_\nu$), and the corresponding $p$-value to assess goodness of fit.
 * **Visualization:** Generates formatted plots comparing the experimental data against the fitted model.
 
 
--lasers-part3 (2).ipynb is a colab phyton which display on a graph the diode output Power in the Y axis and the tempature of the diode in the X axis.
+### lasers-part3 (2).ipynb is a colab phyton which display on a graph the diode output Power in the Y axis and the tempature of the diode in the X axis.
 * **Visualization:** Generates  the experimental dataon a graph.
 
 
-TEM00 (2).ipynb is Colab notebook that loads a laser mode image, converts it to grayscale, crops and sums it into a 1D profile, and fits a Hermite-Gauss model to calculate beam center, width, and mode contributions.Inputs: A laser mode image file (e.g., TEM00new.jpg), defaulting to a generated synthetic image if the file is missing.Outputs: Printed fit parameters (beam center, width, $R^2$, and mode coefficients $A_0$–$A_3$) and two plots displaying the cropped mode image and the normalized 1D intensity profile.
+### TEM00 (2).ipynb is Colab notebook that loads a laser mode image, converts it to grayscale, crops and sums it into a 1D profile, and fits a Hermite-Gauss model to calculate beam center, width, and mode contributions.Inputs: A laser mode image file (e.g., TEM00new.jpg), defaulting to a generated synthetic image if the file is missing.Outputs: Printed fit parameters (beam center, width, $R^2$, and mode coefficients $A_0$–$A_3$) and two plots displaying the cropped mode image and the normalized 1D intensity profile.
 
-TEM01 (2).ipynb is Colab notebook that loads a laser mode image, converts it to grayscale, crops and sums it into a 1D profile, and fits a Hermite-Gauss model to calculate beam center, width, and mode contributions.Inputs: A laser mode image file (e.g., TEM01.jpg), defaulting to a generated synthetic image if the file is missing.Outputs: Printed fit parameters (beam center, width, $R^2$, and mode coefficients $A_0$–$A_3$) and two plots displaying the cropped mode image and the normalized 1D intensity profile.
+### TEM01 (2).ipynb is Colab notebook that loads a laser mode image, converts it to grayscale, crops and sums it into a 1D profile, and fits a Hermite-Gauss model to calculate beam center, width, and mode contributions.Inputs: A laser mode image file (e.g., TEM01.jpg), defaulting to a generated synthetic image if the file is missing.Outputs: Printed fit parameters (beam center, width, $R^2$, and mode coefficients $A_0$–$A_3$) and two plots displaying the cropped mode image and the normalized 1D intensity profile.
 
-TEM02 (2).ipynb is Colab notebook that loads a laser mode image, converts it to grayscale, crops and sums it into a 1D profile, and fits a Hermite-Gauss model to calculate beam center, width, and mode contributions.Inputs: A laser mode image file (e.g., TEM02.jpg), defaulting to a generated synthetic image if the file is missing.Outputs: Printed fit parameters (beam center, width, $R^2$, and mode coefficients $A_0$–$A_3$) and two plots displaying the cropped mode image and the normalized 1D intensity profile.
+### TEM02 (2).ipynb is Colab notebook that loads a laser mode image, converts it to grayscale, crops and sums it into a 1D profile, and fits a Hermite-Gauss model to calculate beam center, width, and mode contributions.Inputs: A laser mode image file (e.g., TEM02.jpg), defaulting to a generated synthetic image if the file is missing.Outputs: Printed fit parameters (beam center, width, $R^2$, and mode coefficients $A_0$–$A_3$) and two plots displaying the cropped mode image and the normalized 1D intensity profile.
 
-TEM03 (3).ipynb is Colab notebook that loads a laser mode image, converts it to grayscale, crops and sums it into a 1D profile, and fits a Hermite-Gauss model to calculate beam center, width, and mode contributions.Inputs: A laser mode image file (e.g., TEM03.jpg), defaulting to a generated synthetic image if the file is missing.Outputs: Printed fit parameters (beam center, width, $R^2$, and mode coefficients $A_0$–$A_3$) and two plots displaying the cropped mode image and the normalized 1D intensity profile.
+### TEM03 (3).ipynb is Colab notebook that loads a laser mode image, converts it to grayscale, crops and sums it into a 1D profile, and fits a Hermite-Gauss model to calculate beam center, width, and mode contributions.Inputs: A laser mode image file (e.g., TEM03.jpg), defaulting to a generated synthetic image if the file is missing.Outputs: Printed fit parameters (beam center, width, $R^2$, and mode coefficients $A_0$–$A_3$) and two plots displaying the cropped mode image and the normalized 1D intensity profile.
 
--lasers-part5 (1).ipynb this is a colab phyton script
+### lasers-part5 (1).ipynb this is a colab phyton script
 * **Model Fitting:** Uses linear interpolation  to fit the `qswitch_freq` physics model to the experimental dataset.
 * **Statistical Evaluation:** Computes residuals, reduced chi-squared ($\chi^2_\nu$), and the corresponding $p$-value to assess goodness of fit.
 * **Visualization:** Generates formatted plots comparing the experimental data against the fitted model.
 
--lasers-part6 (5).ipynb this is a colab phyton script
+### lasers-part6 (5).ipynb this is a colab phyton script
 * **Model Fitting:** Uses linear interpolation to fit the FWHM in the Y axis and B in the x axis.
 * **Statistical Evaluation:** Computes residuals, reduced chi-squared ($\chi^2_\nu$), and the corresponding $p$-value to assess goodness of fit.
 * **Visualization:** Generates formatted plots comparing the experimental data against the fitted model.
